@@ -1,6 +1,6 @@
 {
-  "name": "hyper-horizon-theme",
-  "version": "1.1.01",
+  "name": "hyper-horizon-theme-high-contrast",
+  "version": "1.0.0",
   "main": "index.js",
   "homepage": "https://github.com/thedoomshine/hyper-horizon-theme",
   "description": "🎨 A beautifully warm dark theme for Hyper, based on Horizon Theme VSCode by Jolaleye",

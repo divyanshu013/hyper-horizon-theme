@@ -1,4 +1,7 @@
-# Hyper Horizon
+# Hyper Horizon (high contrast)
+
+*Forked version with higher contrast ratio with better visibility*
+
 Based on [Horizon VS Code](https://github.com/jolaleye/horizon-theme-vscode) by [Jonathan Olaleye](https://github.com/jolaleye)
 
 ![Hyper Horizon Theme](https://raw.githubusercontent.com/thedoomshine/hyper-horizon-theme/master/hyper-horizon-theme.png)

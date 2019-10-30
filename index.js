@@ -13,7 +13,7 @@ exports.decorateConfig = config => {
     magenta: '#EE64AC',
     cyan: '#59E1E3',
     white: '#D5D8DA',
-    lightBlack: '#2E303E',
+    lightBlack: '#6C6F93',
     lightRed: '#EC6A88',
     lightGreen: '#3FDAA4',
     lightYellow: '#FBC3A7',
